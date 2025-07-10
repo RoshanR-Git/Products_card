@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/37345581-35a0-4e2e-931e-91933e7ee2d1)# Product_card
+# Product_card
 ## Date: 10.07.2025
 ## Objective:
 
